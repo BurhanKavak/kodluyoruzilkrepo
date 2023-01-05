@@ -25,4 +25,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![Fotoğraf]([D:\kodluyoruz\practicum.png](https://github.com/BurhanKavak/kodluyoruzilkrepo/blob/main/practicum.png))
+![Fotoğraf](https://github.com/BurhanKavak/kodluyoruzilkrepo/blob/main/practicum.png)
